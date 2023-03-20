@@ -4,6 +4,16 @@ lab:
     module: 'Module 01 - Manage Identity and Access'
 ---
 
+1. In the PowerShell session within the Cloud Shell pane, run the following to list resource groups to verify that the new resource group was created:
+
+    ```powershell
+    Get-AzResourceGroup | format-table
+    ```
+       |Setting|Value|
+   |---|---|
+   |Subscription|the name of you Azure subscription|
+   |Resource group|**AZ500LAB02**|
+   
 # Lab 02: Azure Policy
 # Student lab manual
 
