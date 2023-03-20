@@ -7,6 +7,10 @@ lab:
 # Lab 02: Azure Policy
 # Student lab manual
 
+    ```powershell
+    Pa$$w0rd
+    ```
+    
 ## Lab scenario
 
 You have been asked to create a proof of concept showing how Azure policy can be used. Specifically, you need to:
