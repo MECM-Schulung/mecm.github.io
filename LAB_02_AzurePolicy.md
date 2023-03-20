@@ -159,7 +159,7 @@ In this task, you will test the Allowed Locations policy assignment.
 1. In the PowerShell session within the Cloud Shell pane, run the following to remove the resource group you created in this lab:
   
     ```powershell
-    Remove-AzResourceGroup -Name "AZ500LAB02" -Force -AsJob
+    Remove-AzResourceGroup -Name "AZ500LAB02" -Force -AsJob hello
     ```
 1.  Close the **Cloud Shell** pane. 
   
