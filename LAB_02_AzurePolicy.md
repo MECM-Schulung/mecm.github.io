@@ -9,7 +9,8 @@ lab:
     ```powershell
     Get-AzResourceGroup | format-table
     ```
-       |Setting|Value|
+
+   |Setting|Value|
    |---|---|
    |Subscription|the name of you Azure subscription|
    |Resource group|**AZ500LAB02**|
